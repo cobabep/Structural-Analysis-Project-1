@@ -80,5 +80,5 @@ Q78::34550
 Q79::0
 Q80::-36970
 Q81::T
-Q82::2
-Q83:: Because the central truss carries tributary area from both sides of it whereas the 
+Q82::0.5
+Q83::The outer trusses carry half the load of the central truss. Each end truss collects roof and purlin load from only one side while the central truss collects from both sides of it. Half the tributary area means half the load, so the outer-truss loads are approximately 0.5 times the central-truss loads.
